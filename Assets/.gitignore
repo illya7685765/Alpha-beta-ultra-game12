@@ -1,0 +1,41 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+MemoryCaptures/
+Logs/
+
+# User-specific
+UserSettings/
+*.user
+*.userprefs
+
+# Visual Studio / Rider / IDE files
+.vs/
+.idea/
+*.sln
+*.csproj
+*.unityproj
+*.pidb
+*.suo
+*.tmp
+*.user
+*.booproj
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Crashlytics / symbol files
+crashlytics-build.properties
+
+# Avoid committing assembled binary or package output
+*.apk
+*.aab
+*.exe
+*.dll
+*.so
+
+# Don't ignore Assets, ProjectSettings, Packages!
